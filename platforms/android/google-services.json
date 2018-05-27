@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1037566326510",
+    "firebase_url": "https://zeusalert-1e04f.firebaseio.com",
+    "project_id": "zeusalert-1e04f",
+    "storage_bucket": "zeusalert-1e04f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037566326510:android:8d93b8b859c31165",
+        "android_client_info": {
+          "package_name": "com.geobit.zeusalert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037566326510-hpelv6es3dfhqe2137msr0ctk97attfg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkGNh3sK29-GGBYEl54LQ-Pk2DCXlR13I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
